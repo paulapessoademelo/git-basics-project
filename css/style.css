@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  color: rgb(219,57,71);
+}
+
+a:hover {
+  color: rgb(241,187,69);
+}
